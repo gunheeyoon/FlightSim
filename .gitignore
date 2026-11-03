@@ -1,0 +1,7 @@
+/build/
+/aircraft_server.exe
+/flight_simulator.exe
+__pycache__/
+**/bin/
+**/obj/
+/.dotnet/

@@ -1,0 +1,7 @@
+{
+  "waypoints": [
+    { "longitude": -122.3140, "latitude": 47.4444, "altitude": 400, "airspeed": 120 },
+    { "longitude": -122.3075, "latitude": 47.4873, "altitude": 700, "airspeed": 120 },
+    { "longitude": -122.3010, "latitude": 47.53028, "altitude": 400, "airspeed": 100 }
+  ]
+}
